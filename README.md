@@ -1,10 +1,4 @@
 # XML-RPC for Jetpack Only
-Contributors: samhotchkiss
-Tags: xmlrpc, xml-rpc, jetpack, ddos
-Requires at least: 3.0
-Tested up to: 4.5.2
-License: GPL2+
-Stable tag: trunk
 
 This plugin will block all XML-RPC activity that doesn't originate from the Jetpack servers.
 
